@@ -80,7 +80,7 @@
 
 #home::before{
     content: "";
-    background:url("../image/bg4.png") no-repeat center center/cover; 
+    /* background:url("../image/bg4.png") no-repeat center center/cover;  */
     /* double dot(..) isliye lga h kyunki hme ek folder piche jana tha*/
     position: absolute;
     height: 400px;
@@ -100,7 +100,7 @@
 }
 
 #home p{
-    color: white;
+    color: red;
     text-align: center;
     font-size: 1.3rem;
     font-family :Verdana, Geneva, Tahoma, sans-serif;
